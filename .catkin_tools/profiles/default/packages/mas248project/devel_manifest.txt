@@ -1,0 +1,5 @@
+mas248project
+/home/lars/new_catkin_WS/devel/.private/mas248project/cmake.lock /home/lars/new_catkin_WS/devel/./cmake.lock
+/home/lars/new_catkin_WS/devel/.private/mas248project/share/mas248project/cmake/mas248projectConfig-version.cmake /home/lars/new_catkin_WS/devel/share/mas248project/cmake/mas248projectConfig-version.cmake
+/home/lars/new_catkin_WS/devel/.private/mas248project/share/mas248project/cmake/mas248projectConfig.cmake /home/lars/new_catkin_WS/devel/share/mas248project/cmake/mas248projectConfig.cmake
+/home/lars/new_catkin_WS/devel/.private/mas248project/lib/pkgconfig/mas248project.pc /home/lars/new_catkin_WS/devel/lib/pkgconfig/mas248project.pc

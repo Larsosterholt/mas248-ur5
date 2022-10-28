@@ -1,0 +1,5 @@
+fmauch_universal_robot/ur_gazebo
+/home/lars/new_catkin_WS/devel/.private/ur_gazebo/cmake.lock /home/lars/new_catkin_WS/devel/./cmake.lock
+/home/lars/new_catkin_WS/devel/.private/ur_gazebo/share/ur_gazebo/cmake/ur_gazeboConfig.cmake /home/lars/new_catkin_WS/devel/share/ur_gazebo/cmake/ur_gazeboConfig.cmake
+/home/lars/new_catkin_WS/devel/.private/ur_gazebo/share/ur_gazebo/cmake/ur_gazeboConfig-version.cmake /home/lars/new_catkin_WS/devel/share/ur_gazebo/cmake/ur_gazeboConfig-version.cmake
+/home/lars/new_catkin_WS/devel/.private/ur_gazebo/lib/pkgconfig/ur_gazebo.pc /home/lars/new_catkin_WS/devel/lib/pkgconfig/ur_gazebo.pc

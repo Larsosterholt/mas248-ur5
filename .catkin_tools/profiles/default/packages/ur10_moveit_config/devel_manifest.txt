@@ -1,0 +1,5 @@
+fmauch_universal_robot/ur10_moveit_config
+/home/lars/new_catkin_WS/devel/.private/ur10_moveit_config/cmake.lock /home/lars/new_catkin_WS/devel/./cmake.lock
+/home/lars/new_catkin_WS/devel/.private/ur10_moveit_config/share/ur10_moveit_config/cmake/ur10_moveit_configConfig.cmake /home/lars/new_catkin_WS/devel/share/ur10_moveit_config/cmake/ur10_moveit_configConfig.cmake
+/home/lars/new_catkin_WS/devel/.private/ur10_moveit_config/share/ur10_moveit_config/cmake/ur10_moveit_configConfig-version.cmake /home/lars/new_catkin_WS/devel/share/ur10_moveit_config/cmake/ur10_moveit_configConfig-version.cmake
+/home/lars/new_catkin_WS/devel/.private/ur10_moveit_config/lib/pkgconfig/ur10_moveit_config.pc /home/lars/new_catkin_WS/devel/lib/pkgconfig/ur10_moveit_config.pc

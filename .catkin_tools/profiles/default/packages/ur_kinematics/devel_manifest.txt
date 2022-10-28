@@ -1,0 +1,12 @@
+fmauch_universal_robot/ur_kinematics
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/cmake.lock /home/lars/new_catkin_WS/devel/./cmake.lock
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake /home/lars/new_catkin_WS/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake /home/lars/new_catkin_WS/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur3_kin.so /home/lars/new_catkin_WS/devel/lib/libur3_kin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur10_moveit_plugin.so /home/lars/new_catkin_WS/devel/lib/libur10_moveit_plugin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur3_moveit_plugin.so /home/lars/new_catkin_WS/devel/lib/libur3_moveit_plugin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur5_moveit_plugin.so /home/lars/new_catkin_WS/devel/lib/libur5_moveit_plugin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur10_kin.so /home/lars/new_catkin_WS/devel/lib/libur10_kin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/libur5_kin.so /home/lars/new_catkin_WS/devel/lib/libur5_kin.so
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc /home/lars/new_catkin_WS/devel/lib/pkgconfig/ur_kinematics.pc
+/home/lars/new_catkin_WS/devel/.private/ur_kinematics/lib/python3/dist-packages/ur_kinematics/__init__.py /home/lars/new_catkin_WS/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
