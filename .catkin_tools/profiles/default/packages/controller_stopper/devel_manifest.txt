@@ -1,0 +1,6 @@
+Universal_Robots_ROS_Driver/controller_stopper
+/home/lars/new_catkin_WS/devel/.private/controller_stopper/cmake.lock /home/lars/new_catkin_WS/devel/./cmake.lock
+/home/lars/new_catkin_WS/devel/.private/controller_stopper/share/controller_stopper/cmake/controller_stopperConfig.cmake /home/lars/new_catkin_WS/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake
+/home/lars/new_catkin_WS/devel/.private/controller_stopper/share/controller_stopper/cmake/controller_stopperConfig-version.cmake /home/lars/new_catkin_WS/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake
+/home/lars/new_catkin_WS/devel/.private/controller_stopper/lib/controller_stopper/node /home/lars/new_catkin_WS/devel/lib/controller_stopper/node
+/home/lars/new_catkin_WS/devel/.private/controller_stopper/lib/pkgconfig/controller_stopper.pc /home/lars/new_catkin_WS/devel/lib/pkgconfig/controller_stopper.pc

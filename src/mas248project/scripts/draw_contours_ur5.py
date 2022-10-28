@@ -152,7 +152,7 @@ class MoveGroupPythonInterfaceTutorial(object):
 
 
 
-    def process_image(self, image_path="src/mas248project/scripts/image_2.jpg"):
+    def process_image(self, image_path="src/mas248project/scripts/test_image.jpg"):
 
         img = cv2.imread(image_path)
 
