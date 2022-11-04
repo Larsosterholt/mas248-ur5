@@ -88,7 +88,7 @@
 <joint name="tool_to_tooltip" type="fixed">
   <parent link="tool"/>
   <child link="tooltip"/>
-  <origin xyz="0 -0.130 0.108" rpy="1.5707 0 3.1415"/> <!-- the length of pen from center is 130mm -->
+  <origin xyz="0 -0.130 0.108" rpy="1.5707 0 3.4906"/> <!-- the length of pen from center is 130mm -->
 </joint>
    
    <xacro:include filename="$(find ur_description)/urdf/inc/ur_macro.xacro"/>

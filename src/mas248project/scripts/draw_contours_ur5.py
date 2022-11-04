@@ -152,7 +152,7 @@ class MoveGroupPythonInterfaceTutorial(object):
 
 
 
-    def process_image(self, image_path="src/mas248project/scripts/test_image.jpg"):
+    def process_image(self, image_path="src/mas248project/scripts/sir_isaac.png"):
 
         img = cv2.imread(image_path)
 
@@ -651,8 +651,8 @@ def main():
         tutorial = MoveGroupPythonInterfaceTutorial()
 
         #Add floor and walls
-       # tutorial.add_floor()
-       # tutorial.add_four_walls()
+        tutorial.add_floor()
+        tutorial.add_four_walls()
 
         #input(
         #    "============ Press `Enter` to execute a movement using a joint state goal ..."

@@ -88,8 +88,8 @@ for cont in contours:
 
 #scale the image to reasonable size
 print("Image size = ",img.shape)
-x_coord = (-min(x_coord) + x_coord)/(max(x_coord)-min(x_coord))*0.210 + 0.20;
-y_coord = (-min(y_coord) + y_coord)/(max(y_coord)-min(y_coord))*0.290 + 0.20;
+x_coord = (-min(x_coord) + x_coord)/(max(x_coord)-min(x_coord))*0.210 + 0.500;  #Add offset
+y_coord = (-min(y_coord) + y_coord)/(max(y_coord)-min(y_coord))*0.290;
 
 #x_coord[:] = [x/ img.shape[0]*0.210 + 0.20 for x in x_coord]
 #y_coord[:] = [y/ img.shape[1]*0.290 + 0.20 for y in y_coord]
