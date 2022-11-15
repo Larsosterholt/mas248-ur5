@@ -5,7 +5,7 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
-img = cv2.imread("src/mas248project/scripts/test_image_2.jpg")
+img = cv2.imread("src/mas248project/scripts/sir_isaac.png")
 
 #cv2.imshow('original_image',img)
 #waits for user to press any key 

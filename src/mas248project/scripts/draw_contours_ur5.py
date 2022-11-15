@@ -185,7 +185,7 @@ class MoveGroupPythonInterfaceTutorial(object):
         # Find Canny edges
         edged = cv2.Canny(thresh_image, 30, 200)
 
-        #cv2.imshow('edged',edged)
+        cv2.imshow('edged',edged)
         #cv2.waitKey(0)   
         #cv2.destroyAllWindows() 
 
@@ -651,8 +651,8 @@ def main():
         tutorial = MoveGroupPythonInterfaceTutorial()
 
         #Add floor and walls
-        tutorial.add_floor()
-        tutorial.add_four_walls()
+       # tutorial.add_floor()
+       # tutorial.add_four_walls()
 
         #input(
         #    "============ Press `Enter` to execute a movement using a joint state goal ..."
